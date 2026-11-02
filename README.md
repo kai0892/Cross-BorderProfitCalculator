@@ -1,6 +1,3 @@
-# Cross-BorderProfitCalculator
-浙创OPC-Calculate profit, break-even price, and target price based on selling price, exchange rate, and unit cost.
-[README.md](https://github.com/user-attachments/files/34251616/README.md)
 # 跨境单品利润试算器
 
 按售价、汇率与单件成本，计算利润、保本售价和目标售价。

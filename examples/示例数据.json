@@ -1,0 +1,17 @@
+{
+  "format": "opc-offline-backup",
+  "version": 1,
+  "project": "A03",
+  "data": {
+    "_files": {},
+    "price": 29.9,
+    "fx": 7.1,
+    "purchase": 35,
+    "shipping": 28,
+    "packing": 4,
+    "fee": 15,
+    "ad": 18,
+    "refund": 5,
+    "target": 20
+  }
+}
